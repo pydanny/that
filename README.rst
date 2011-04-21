@@ -18,7 +18,7 @@ This will happen later, when formal requirements are defined for the operation o
 Usage
 ======
 
-From where you cloned the library:
+From where you cloned the library::
 
     cd that
     python
