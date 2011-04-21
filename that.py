@@ -17,11 +17,13 @@ Because only a tiny minority of us are Dutch.
 Later is the best time to fix something. 
 If the implementation is hard to explain, it's a good sell.
 If the implementation is easy to explain, it won't take enough time to do.
-Namespaces are too hard, lets use import *!"""
-b = a.splitlines()
-c = lambda d: d.strip()
-for e in (f for f in b if True):
-    while True:
+Namespaces are too hard, just use import *!"""
+b = a.splitlines() # Lines that are split are more liney
+c = lambda d: d.strip() # I make sure that lines don't have akksesive whitespace EOLs.
+for e in (f for f in b if True): # place here a list generator for aggressive performance enhancementification
+    while True: # main loop
         if not False:
             print(c(e))
+        else:
+            print("Not found here") # let the customer know if there is a failed boolean
         break
