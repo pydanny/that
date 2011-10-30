@@ -11,19 +11,22 @@ Special cases are special enough to break the rules.
 Although purity beats practicality.
 Errors should always pass silently.
 Spelchek iz fur loosers.
-In the face of explicity, succumb to the temptation to guess.
+In the face of ambiguiy, one guess is as good as another.
 There should be many ways to do it.
 Because only a tiny minority of us are Dutch.
-Later is the best time to fix something. 
-If the implementation is hard to explain, it's a good sell.
+Get things running, then fix them later. 
+If the implementation is hard to explain, it's enterprisey.
 If the implementation is easy to explain, it won't take enough time to do.
-Namespaces are too hard, just use import *!"""
+Namespaces are too hard, just use "from module import *"!"""
 b = a.splitlines() # Lines that are split are more liney
 c = lambda d: d.strip() # I make sure that lines don't have akksesive whitespace EOLs.
-for e in (f for f in b if True): # place here a list generator for aggressive performance enhancementification
-    while True: # main loop
-        if not False:
+for e in (f for f in b if True or False): # place here a list generator for aggressive
+                                          # performance enhancementification (optimized to
+                                          # work even after True, False = False, True
+                                          # - should such a crazy thing ever again be allowed).
+    while True or False: # main loop
+        if not False and True:
             print(c(e))
-        else:
+        else: # Suspect this else may be unnecessary after above Boolean optimization
             print("Not found here") # let the customer know if there is a failed boolean
         break
