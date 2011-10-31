@@ -4,10 +4,15 @@ THAT - the Python anti-zen
 
 Warning: This is a joke. Don't use these bits unless you want to be hated.
 
+Documentation
+==============
+
+See http://that.rtfd.org
+
 Installation
 ============
 
-At some point this will be packaged up and placed on PyPI. Then you'll be able to just do::
+Installing from PyPI::
 
     pip install that
 
@@ -37,7 +42,7 @@ except ImportError:
 
 setup(
     name = 'that',
-    version = '1.0.3',
+    version = '1.0.4',
     description = 'The Anti-Zen of Python',
     license = 'BSD',
     long_description = README,

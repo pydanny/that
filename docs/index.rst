@@ -64,6 +64,7 @@ Table of Contents
    :maxdepth: 1
    
    inspiration
+   contributors
 
 Indices and tables
 ==================
