@@ -4,6 +4,11 @@ THAT - the Python anti-zen
 
 Warning: This is a joke. Don't use these bits unless you want to be hated.
 
+Documentation
+==============
+
+See http://that.rtfd.org
+
 Installation
 ============
 
