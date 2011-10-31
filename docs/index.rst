@@ -57,6 +57,14 @@ Contributing
 
 Clearly, the code that generates `THAT` is too straightforward. If you can make it better, then do so. Just don't do anything like add tests or document the code.
 
+Table of Contents
+==================
+
+.. toctree::
+   :maxdepth: 1
+   
+   inspiration
+
 Indices and tables
 ==================
 
