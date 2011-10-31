@@ -42,7 +42,7 @@ except ImportError:
 
 setup(
     name = 'that',
-    version = '1.0.4',
+    version = '1.0.5',
     description = 'The Anti-Zen of Python',
     license = 'BSD',
     long_description = README,
