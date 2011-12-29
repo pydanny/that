@@ -11,6 +11,6 @@ class TestSequenceFunctions(unittest.TestCase):
         from resources import a, b, factory
         
         self.assertTrue(isinstance(a, str))
-        # TODO - test on b
+        self.assertTrue(isinstance(b(), str))
         # TODO - test on factory        
         
