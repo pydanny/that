@@ -24,7 +24,7 @@ Contents::
     Although purity beats practicality.
     Errors should always pass silently.
     Spelchek iz fur loosers.
-    In the face of ambiguiy, one guess is as good as another.
+    In the face of ambiguity, one guess is as good as another.
     There should be many ways to do it.
     Because only a tiny minority of us are Dutch.
     Get things running, then fix them later. 

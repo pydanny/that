@@ -11,13 +11,13 @@ Special cases are special enough to break the rules.
 Although purity beats practicality.
 Errors should always pass silently.
 Spelchek iz fur loosers.
-In the face of explicity, succumb to the temptation to guess.
+In the face of ambiguity, one guess is as good as another.
 There should be many ways to do it.
 Because only a tiny minority of us are Dutch.
-Later is the best time to fix something. 
-If the implementation is hard to explain, it's a good sell.
+Get things running, then fix them later. 
+If the implementation is hard to explain, it's enterprisey.
 If the implementation is easy to explain, it won't take enough time to do.
-Namespaces are too hard, just use import *!"""
+Namespaces are too hard, just use "from module import *"!"""
 
 def b():
     return a
