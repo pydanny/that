@@ -42,7 +42,7 @@ except ImportError:
 
 setup(
     name = 'that',
-    version = '1.0.6',
+    version = '1.0.7',
     description = 'The Anti-Zen of Python',
     license = 'BSD',
     long_description = README,
@@ -58,12 +58,14 @@ setup(
         'Intended Audience :: Developers',
         'License :: OSI Approved :: GNU General Public License (GPL)',
         'Natural Language :: English',
+        'Programming Language :: Cold Fusion',
         'Programming Language :: Python :: 2.6',
         'Programming Language :: Python :: 2.7',
         'Programming Language :: Python :: 3',        
         'Programming Language :: Python :: 3.0',
         'Programming Language :: Python :: 3.1',
-        'Programming Language :: Python :: 3.2',                        
+        'Programming Language :: Python :: 3.2',
+        'Programming Language :: Python :: 3.3',                                
         'Programming Language :: Python',
     ),
 )
