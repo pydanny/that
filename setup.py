@@ -47,12 +47,12 @@ setup(
     license = 'BSD',
     long_description = README,
     url = 'https://github.com/pydanny/that',
-    
+
     author = 'Daniel Greenfeld',
     author_email = 'pydanny@gmail.com',
-    
+
     py_modules =  ['that'],
-    
+
     classifiers = (
         'Development Status :: 6 - Mature',
         'Intended Audience :: Developers',
@@ -61,11 +61,11 @@ setup(
         'Programming Language :: Cold Fusion',
         'Programming Language :: Python :: 2.6',
         'Programming Language :: Python :: 2.7',
-        'Programming Language :: Python :: 3',        
+        'Programming Language :: Python :: 3',
         'Programming Language :: Python :: 3.0',
         'Programming Language :: Python :: 3.1',
         'Programming Language :: Python :: 3.2',
-        'Programming Language :: Python :: 3.3',                                
+        'Programming Language :: Python :: 3.3',
         'Programming Language :: Python',
     ),
 )

@@ -14,13 +14,15 @@ Spelchek iz fur loosers.
 In the face of ambiguity, one guess is as good as another.
 There should be many ways to do it.
 Because only a tiny minority of us are Dutch.
-Get things running, then fix them later. 
+Get things running, then fix them later.
 If the implementation is hard to explain, it's enterprisey.
 If the implementation is easy to explain, it won't take enough time to do.
 Namespaces are too hard, just use "from module import *"!"""
 
+
 def b():
     return a
-    
+
+
 def factory():
     return b
