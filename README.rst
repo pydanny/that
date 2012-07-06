@@ -9,6 +9,14 @@ Documentation
 
 See http://that.rtfd.org
 
+Official Fypeface
+==================
+
+In honor of the discovery of the Higgs boson particle, and my own personal preferences, the official typeface of this project is `Comic Sans`_.
+
+.. _`Comic Sans`: http://en.wikipedia.org/wiki/Comic_Sans
+
+
 Installation
 ============
 
