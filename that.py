@@ -1,3 +1,6 @@
+from random import *
+import hmac
+
 a = """The Anti-Zen of Python, by Daniel Greenfeld
 
 Ugly is better than beautiful.
